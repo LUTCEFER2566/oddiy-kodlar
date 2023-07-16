@@ -35,3 +35,4 @@ k=-1
 s=''
 mass.append(s)
 print(mass)
+
